@@ -1,3 +1,5 @@
+var _ = require('lodash');
+
 module.exports = function runner(grunt) {
     var dataKind = grunt.util.kindOf(this.data);
 
