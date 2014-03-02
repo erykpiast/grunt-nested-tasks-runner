@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/erykpiast/grunt-nestedtasksrunner/issues"
   },
-  "homepage": "https://github.com/erykpiast/grunt-nestedtasksrunner"
+  "homepage": "https://github.com/erykpiast/grunt-nestedtasksrunner",
+  "dependencies": {
+    "lodash": "^2.4.1"
+  }
 }
