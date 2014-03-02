@@ -5,7 +5,7 @@ Nested tasks generator for Grunt.
 
 Example of use
 =======================
-
+```javascript
   grunt.initConfig({
     ...
     build: {
@@ -30,5 +30,6 @@ Example of use
   var nestedTask = require('grunt-nestedtasksrunner')(grunt);
   
   grunt.registerTask('build', nestedTask);
+```
   
 Command `grunt build:dev` runs every task in group `dev`. Task `server` and `webapp` will be run simultaneously, like tasks `js` and `css`.
