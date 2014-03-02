@@ -1,0 +1,24 @@
+{
+  "name": "grunt-nestedtasksrunner",
+  "version": "0.0.1",
+  "description": "Nested tasks generator for Grunt",
+  "main": "runner.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/erykpiast/grunt-nestedtasksrunner"
+  },
+  "keywords": [
+    "grunt",
+    "nested",
+    "tasks"
+  ],
+  "author": "Eryk Napierała",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/erykpiast/grunt-nestedtasksrunner/issues"
+  },
+  "homepage": "https://github.com/erykpiast/grunt-nestedtasksrunner"
+}
